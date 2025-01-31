@@ -1,0 +1,5 @@
+[newfeature ccb9637] This file5.txt created in new branch
+ 3 files changed, 3 deletions(-)
+ delete mode 160000 Hello
+ delete mode 160000 Hello-DevOps
+ delete mode 160000 exp
